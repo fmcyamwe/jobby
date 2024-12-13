@@ -1,0 +1,36 @@
+{
+    "author": "Flogical",
+    "version": "1.4",
+    "manifest_version": 3,
+    "name": "Jobby helper",
+    "description": "Job helper",
+    "homepage_url": "https://github.com/fmcyamwe/jobby",
+    "icons": {
+        "48": "icons/naruto.png",
+        "96": "icons/naruto.png"
+    },
+    "background": {
+        "service_worker": "service-worker.js",
+        "type": "module"
+    },
+    "permissions": [
+        "tabs",
+        "contextMenus"
+    ],
+    "optional_host_permissions": [
+        "*://*/*"
+    ],
+    "web_accessible_resources": [
+        {
+            "resources": [
+                "icons/naruto.png",
+                "icons/naruto.png"
+            ],
+            "matches": [
+                "*://*/*"
+            ]
+
+        }
+       
+    ]
+}
