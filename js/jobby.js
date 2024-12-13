@@ -3,6 +3,7 @@
 export const jobUrls = {
     'Lever': 'https://jobs.lever.co/',
     'Ashby': 'https://jobs.ashbyhq.com/',
+    'Greenhouse': 'https://boards.greenhouse.io/', //gets redirected to >> https://job-boards.greenhouse.io/ //also company name could be different smh
     'All':'All'
   };
 
