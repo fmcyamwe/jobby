@@ -9,12 +9,11 @@ After downloading this extension, load it in a browser of choice.
 ## Recruiting platforms supported
 - Lever
 - Ashby
+- Greenhouse
 
 ## Browser Compatibility
 The following browsers were tested while developing this add-on.
-- Google Chrome 61.0.3163.100
-- Firefox Quantum 57.0b4
-- Firefox 56
+- Google Chrome
 - Brave
 
 Any browser of the same or higher version should be able to run the add-on without any issues.
